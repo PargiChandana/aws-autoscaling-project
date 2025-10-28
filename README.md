@@ -27,10 +27,16 @@ It provisions EC2 instances behind an **Application Load Balancer (ALB)**, confi
 1. Clone this repository:
    ```bash
    git clone https://github.com/PargiChandana/aws-autoscaling-project.git
+
+   
 2.Initialize Terraform:
 terraform init
+
+
 3.Review the plan:
 terraform plan
+
+
 4.Deploy:
 terraform apply
 
